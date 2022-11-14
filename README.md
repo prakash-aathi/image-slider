@@ -1,2 +1,1 @@
-# image-slider
-Created with CodeSandbox
+live at https://k3kvwd.csb.app/
