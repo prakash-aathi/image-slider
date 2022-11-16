@@ -1,1 +1,1 @@
-live at https://k3kvwd.csb.app/
+live at https://csb-k3kvwd.netlify.app/
